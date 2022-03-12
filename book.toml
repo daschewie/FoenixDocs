@@ -1,0 +1,11 @@
+[book]
+authors = ["Jesus Garcia"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Foenix Retro Systems"
+
+[output.html]
+default-theme = "navy"
+git-repository-url = "https://github.com/rust-lang/mdBook"
+
