@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Foenix Project! Here you will find a series of brand new computers lovingly made by Stefany Allaire in the style of the early 16 and 32 bit machines of lore! This is your chance to be a participant in the development of a new platform -- to start with a brand new machine akin to a high-end Atari or Amiga, write its very first programs, see what it can do, push its limits, and experience something new! Models are available with a 65816 CPU, a 680x0 series CPU, or both, with more CPU options planned for the future.
+Welcome to the Foenix Project! Here you will find a series of brand new computers lovingly made by Stefany Allaire in the style of the early 16 and 32 bit machines of lore! This is your chance to be a participant in the development of a new platform - to start with a brand new machine akin to a high-end Atari or Amiga, write its very first programs, see what it can do, push its limits, and experience something new! Models are available with a 65816 CPU, a 680x0 series CPU, or both, with more CPU options planned for the future.
 
 ## All Foenix systems include the following base features
 
