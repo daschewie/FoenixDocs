@@ -7,5 +7,5 @@ title = "Foenix Retro Systems"
 
 [output.html]
 default-theme = "navy"
-git-repository-url = "https://github.com/rust-lang/mdBook"
-
+git-repository-url = "https://github.com/daschewie/FoenixDocs"
+edit-url-template = "https://github.com/daschewie/FoenixDocs/edit/main/{path}"
