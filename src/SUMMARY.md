@@ -8,13 +8,13 @@
   - [C256 FMX](c256/c256fmx.md)
   - [C256 U/U+](c256/c256u.md)
 - [A2560](a2560/intro.md)
-  - [A2560 U]()
+  - [A2560 U](a2560/a2560u.md)
   - [A2560 K]()
 
 # Operating Systems
 
-- [KernelMCP]()
-- [EmuTOS]()
+- [KernelMCP](os/mcp.md)
+- [EmuTOS](os/emutos.md)
 
 # Tools
 
