@@ -11,13 +11,21 @@ The 68k based machines are quite new, so not as much exists for them yet, but th
 
 ## Languages
 
-C: Numerous legacy 68000 compilers are in use by the community
-C: hth313 has released a modern, Clang-based C compiler for the 68000; see his channel on the Discord for more information.
+### C
+[Calypsi](https://www.calypsi.cc/) - Håkan Thörngren has created a modern C compiler suite for the Foenix line of computers, called Calypsi. Calypsi is the best option for the Foenix as it can make use of its math-copro and supports processors used by other computers of the product line. The development of Calypsi is active, and documentation is excellent. You can find out more on the "ht313-channel" of the Foenix Retro Systems [Discord](https://discord.gg/gZrcCqqY) server.
+
+[VBCC](http://www.compilers.de/vbcc.html) - Dr Volker Barthelmann's C compiler is also used by the community. Dashewie maintains a [VBCC target](https://github.com/daschewie/Foenix_vbcc_target).
+
+The FoenixMCP has an Elf loader so in principle it is possible to use "any" compiler producing ELF, like GCC. For example, [Thorsten Otto](http://tho-otto.de/crossmint.php) produces m68k [GCC](https://gcc.gnu.org/) suites for the Atari ST which might be used.
+
+### BASIC
 BASIC: a port of MMBASIC is in progress.
 
 ## Operating Systems
+For the more adventurous, several operating systems and desktop environments are in the works.
 
-For the more adventurous, several operating systems and desktop environments are in the works:
+### FoenixMCP
+
 
 * CLI -- A simple DOS-like CLI is included
 * A port of EmuTOS is in progress, see the Discord for daily updates!
